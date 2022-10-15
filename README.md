@@ -19,10 +19,11 @@ openandwiteFile(Json_File_to_Read, Json_file_to_dump_into)
 ```
 >**Json_File_to_Read** - Json file that you want to read 
 
->**Json_file_to_dump_into** - Json file that you want the  file to be dumped into. if this file does not exist at this time, the program will create
+>**Json_file_to_dump_into** - Json file that you want the  file to be dumped into. Don't worry if this file does not exist at this time, the program will create and dump the file into it
 
 
 **Run the Program:**
 ```
 python3 main.py
 ```
+
